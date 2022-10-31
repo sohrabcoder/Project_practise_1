@@ -1,0 +1,209 @@
+.focus{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+
+}
+
+.section-icon{
+    font-size: 50px;
+    text-align: center;
+    margin: 90px;
+}
+
+.h3{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.para{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 20px;
+    border: 1px solid gray;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.btn:hover{
+    background-color: goldenrod;
+    opacity: 0.9;
+}
+
+.div1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-color: rgb(220, 238, 232);
+}
+
+.h2{
+    font-size: 50px;
+    font-weight: 500;
+
+}
+
+.para1{
+    font-size: 25px;
+    padding: 40px;
+}
+
+.para{
+    font-size: 20px;
+}
+
+
+.image{
+    padding: 10px;
+}
+
+.icon{
+    font-size: 25px;
+}
+
+.row{
+    border: 2px solid white;
+}
+
+.wow{
+    background-color: white;
+}
+
+
+.h3{
+    color: rgb(227, 146, 116);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.part-1{
+    color: white;
+    background-color: rgb(177, 89, 57);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.col{
+    text-align: center;
+}
+
+
+.part-2{
+    background-color: steelblue;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+.button{
+    margin-left: 200px;
+    text-align: center;
+}
+
+
+.main-content{
+    background-image: url(/Assests/Image/down.jpeg);
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+.heading{
+    color: orangered;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.input{
+    width: 130%;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.div2{
+    padding-left: 200px;
+    padding-top: 180px;
+    padding-bottom: 70px;
+    
+}
+
+.div3{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+.text{
+    opacity: 0.5;
+    color: black;
+    
+}
+
+.just{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgb(160, 208, 196);
+}
+
+.new-icon{
+    font-size: 45px;
+}
+
+
+.para11{
+    font-size: 20px;
+}
+
+.copy{
+    background-color: rgb(96, 139, 160);
+}
+
+.haber{
+    padding-top: 100px;
+    padding-bottom: 120px;
+    text-align: center;
+    color: black;
+}
+
+.haber1{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
